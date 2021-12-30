@@ -27,4 +27,7 @@ export RANGER_LOAD_DEFAULT_RC=FALSE
 export PATH=/home/bzm/Public/NPM/prefix/bin:$PATH
 
 # 代理配置
-export all_proxy=http://127.0.0.1:7890
+# proxy
+# export http_proxy=http://127.0.0.1:7890
+# export https_proxy=$http_proxy
+# export socks5_proxy="socks5://127.0.0.1:7891"

@@ -34,7 +34,8 @@ rg() {
     fi
 }
 
+source /usr/share/nvm/init-nvm.sh
+
 clear
 
 neofetch
-source /usr/share/nvm/init-nvm.sh
